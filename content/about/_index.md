@@ -1,9 +1,9 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+description = "ExperLab, The anonymous security researcher team, Based on Republic of Korea"
+date = "2022-02-12"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "ben-dh-kim"
 enableComments = false
 +++
 
